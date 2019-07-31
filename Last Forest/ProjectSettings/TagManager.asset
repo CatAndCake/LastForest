@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Enddar
+  - Tree
+  - EnvironmentModifications
+  - CanvasGem
+  - Gem
+  - EquipmentInformations
+  - CanvasGems
+  - CanvasTree
+  - CanvasTreeEnable
+  - CanvasTreeSkill
+  - CanvasTreeSkillButton
+  - CanvasTreeName
+  - TreesManager
+  - CanvasTreeFruitSlot
+  - PlayerManager
+  - GemsManager
+  - TreeFruits
+  - TreeFighting
+  - CanvasPlayerSkill
+  - CanvasPlayerSkillsHolder
+  - EnemyManager
+  - TreeDefending
+  - CanvasBars
+  - CanvasInformations
+  - CanvasEnddar
+  - EnddarManager
+  - CanvasTreeSwitchButtons
+  - CanvasTreeSkillsHolder
+  - CanvasTouch
+  - CanvasTreeType
+  - CanvasTreeSwitchFruits
+  - CanvasPlayer
+  - SwordsManager
+  - Sword
+  - CanvasSword
+  - CanvasSharpFruit
+  - CanvasMenu
+  - SaveManager
+  - SaveSlot
+  - MenuManager
+  - PathfindingManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Cube
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
